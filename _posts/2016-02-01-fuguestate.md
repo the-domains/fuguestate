@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-01T08:14:59.901Z'
-dateModified: '2016-02-01T08:14:52.866Z'
+description: 'https://soundcloud.com/alchemedia/only-the-world/s-8hS8I'
+datePublished: '2016-02-01T08:26:50.019Z'
+dateModified: '2016-02-01T08:21:56.637Z'
 title: Fuguestate
 author: []
 sourcePath: _posts/2016-02-01-fuguestate.md
