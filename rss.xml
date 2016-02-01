@@ -4,21 +4,21 @@
         <description><![CDATA[Fuguestate Music]]></description>
         <link>https://thegrid.ai/fuguestate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 08:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 08:26:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fuguestate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fuguestate]]></title>
+            <description><![CDATA[<article><h1>Fuguestate</h1><p>FugueState</p></article>]]></description>
+            <link>https://thegrid.ai/fuguestate/fuguestate/index.html</link>
+            <guid isPermaLink="false">be782158-750b-43e9-b9f2-a778d9adb90c</guid>
+            <pubDate>Mon, 01 Feb 2016 08:26:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://soundcloud.com/alchemedia/only-the-world/s-8hS8I</p>]]></description>
             <link>https://thegrid.ai/fuguestate/697e0f71-5014-4c66-aeda-40e1cafd0cb0/index.html</link>
             <guid isPermaLink="false">697e0f71-5014-4c66-aeda-40e1cafd0cb0</guid>
             <pubDate>Mon, 01 Feb 2016 08:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fuguestate]]></title>
-            <description><![CDATA[<article><h1>Fuguestate</h1><p>FugueState</p></article>]]></description>
-            <link>https://thegrid.ai/fuguestate/fuguestate/index.html</link>
-            <guid isPermaLink="false">be782158-750b-43e9-b9f2-a778d9adb90c</guid>
-            <pubDate>Mon, 01 Feb 2016 08:14:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
