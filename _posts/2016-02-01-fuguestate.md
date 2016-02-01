@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T08:14:59.850Z'
+datePublished: '2016-02-01T08:14:59.901Z'
 dateModified: '2016-02-01T08:14:52.866Z'
 title: Fuguestate
 author: []
