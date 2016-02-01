@@ -1,0 +1,28 @@
+name: Fuguestate
+favicon: null
+layout_spectrum: 0.8944389966782182
+typography_spectrum: 0.8496206984855235
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.16148503520525992
+  lightness: 0.029735171236097813
+  saturation: 0.19389856094494462
+  rhythmicContrast: 0.022984664421528578
+purpose: []
