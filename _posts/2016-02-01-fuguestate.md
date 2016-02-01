@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T08:11:37.496Z'
-dateModified: '2016-02-01T08:10:48.369Z'
+datePublished: '2016-02-01T08:14:59.850Z'
+dateModified: '2016-02-01T08:14:52.866Z'
 title: Fuguestate
 author: []
+sourcePath: _posts/2016-02-01-fuguestate.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-fuguestate.md
-published: true
 url: fuguestate/index.html
 _type: Article
 
