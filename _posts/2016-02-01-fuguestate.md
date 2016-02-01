@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'https://soundcloud.com/alchemedia/only-the-world/s-8hS8I'
-datePublished: '2016-02-01T08:26:50.019Z'
-dateModified: '2016-02-01T08:21:56.637Z'
+datePublished: '2016-02-01T08:48:57.660Z'
+dateModified: '2016-02-01T08:48:52.065Z'
 title: Fuguestate
 author: []
 sourcePath: _posts/2016-02-01-fuguestate.md
